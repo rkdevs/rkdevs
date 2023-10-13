@@ -3,7 +3,7 @@
     <img src="content/images/hello.svg"/>
 </p>
 
-### <div align="center">I am a senior full-stack developer 👩‍💻 with over 11+ years of experience with enterprise application development.</div>
+### <div align="left" width="100%" display="block">I am a senior full-stack developer 👩‍💻 with over 11+ years of experience with enterprise application development.</div>
 
 <table>
     <tr>
