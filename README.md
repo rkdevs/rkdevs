@@ -3,13 +3,13 @@
     <img src="content/images/hello.svg"/>
 </p>
 
-### <div align="left" width="100%" display="block">I am a senior full-stack developer 👩‍💻 with over 11+ years of experience with enterprise application development.</div>
+### I am a full-stack developer 👩‍💻 with over 11 years of experience in enterprise application development.
 
 <table>
     <tr>
         <td valign="center" width="33%">
             <ul>
-                <li>❓ Ask me about anything related to coding and being a female development in the industry! </li>
+                <li>❓ Ask me about anything related to coding and being a female developer in the industry! </li>
                 <br/> 
                 <li>⚡ Fun fact: I use tabs over spaces & I dabble in digital art</li>
             </ul>
