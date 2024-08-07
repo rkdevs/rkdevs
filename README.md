@@ -1,9 +1,9 @@
 <p align="center">
     <img src="content/images/banner-01.gif" width="100%"/>
-    <img src="content/images/hello.svg"/>
+    <img src="content/images/hello.svg" width="100%"/>
 </p>
 
-### I am a full-stack developer 👩‍💻 with over 11 years of experience in enterprise application development.
+### I am a full-stack developer 👩‍💻 with over 13 years of experience in enterprise application development.
 
 <table>
     <tr>
@@ -70,14 +70,33 @@
 
 <br/>  
 
+## Personal Projects
+<div>
+    <ul>
+        <li>
+            <a href="https://stupefied-pare-dfe670.netlify.app/" target="_blank">
+                A Simple TODO List App made with ReactJS
+            </a>
+        </li>
+        <br/> 
+        <li>
+            <a href="https://delightful-moonbeam-50b2a3.netlify.app/" target="_blank">
+                Tic-Tac-Toe Game using ReactJS
+            </a>
+        </li>
+    </ul>
+</div>  
+
+<br/>  
+
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rkdevs" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/artistikangel" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+    <a href="https://github.com/rkdevs" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://instagram.com/artistikangel" target="_blank">
+        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    </a>  
 </div>  
 
 <br/>  
@@ -88,15 +107,13 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rkdevs&&style=flat-square" align="center" />
+    <img src="https://komarev.com/ghpvc/?username=rkdevs&&style=flat-square" align="center" />
 </div>  
 
 <br/>  
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rkdevs" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+    <a href="https://www.buymeacoffee.com/rkdevs" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
+    </a>
+</div>
 <br />
