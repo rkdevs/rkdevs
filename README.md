@@ -108,18 +108,13 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rkdevs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rkdevs&&style=flat-square" align="center" />
-</div>  
-
-<br/>  
+    <a href="https://komarev.com/ghpvc/?username=rkdevs" target="_blank" style="display: inline-block;">
+        <img src="https://komarev.com/ghpvc/?username=rkdevs&&style=flat-square" align="center" />
+    </a>
+</div>
 <div align="center">
     <a href="https://ko-fi.com/spicedpixels" target="_blank" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
     </a>
 </div>
-<br />
